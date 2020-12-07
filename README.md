@@ -7,4 +7,4 @@
 - Top 5 Processes Sorted by Memory Usage  
 - Display Hostname, Up-time and IP  
 - Test Internet Functionality  
-- Display/Modify State of Services. 
+- Display/Modify State of Services.
